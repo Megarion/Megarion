@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Megarion</h1>
-<h3 align="center">A random programmer that makes useless stuff</h3>
+<h1 align="center">Hi, Github</h1>
+<h3 align="center">I'm a random programmer that makes useless stuff</h3>
 
 - All of my projects are available at [https://megarion.github.io/](https://megarion.github.io/)
 
