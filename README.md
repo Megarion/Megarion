@@ -2,6 +2,7 @@
 <h3 align="center">I'm a random programmer that has a hobby to make random and useless stuff</h3>
 
 - All of my projects are available at [https://megarion.github.io/](https://megarion.github.io/)
+- My repositories list is a mess. You can either look at my website, or I'm gonna put links for the good repositories here later.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
