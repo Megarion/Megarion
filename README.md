@@ -1,6 +1,7 @@
 <h3>Hello, Github. 👋</h3>
 I'm Megarion.
 
+<br>
 
 - All of my projects are available [https://megarion.github.io/](here)
 - I use [https://code.visualstudio.com/](VSCode). I mainly code in **Javascript** and **Python**
