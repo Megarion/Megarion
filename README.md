@@ -1,8 +1,10 @@
-<h1 align="center">Hi, Github</h1>
-<h3 align="center">I'm a random programmer that has a hobby to make random and useless stuff</h3>
+<h1>Hello, Github. 👋</h1>
+I'm Megarion.
 
-- All of my projects are available at [https://megarion.github.io/](https://megarion.github.io/)
-- My repositories list is a mess. You can either look at my website, or I'm gonna put links for the good repositories here later.
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+- All of my projects are available [https://megarion.github.io/](here)
+- I use [https://code.visualstudio.com/](VSCode). I mainly code in **Javascript** and **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
