@@ -6,6 +6,7 @@
 - I use [VSCode](https://code.visualstudio.com/). I mainly code in **Javascript** and **Python**.
 
 <h3>Contact</h3>
+
 - [YouTube](https://www.youtube.com/channel/UCBrlr_nVSQ_4kZtsY58Q8wA)
 - [Itch](https://megarion.itch.io/)
 - [Stack Overflow](https://stackoverflow.com/users/15978658/megarion)
