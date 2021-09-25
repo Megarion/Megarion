@@ -1,7 +1,7 @@
 <h1>Hello, Github. 👋</h1>
 I'm Megarion.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=megarion&color=blue)
 
 - All of my projects are available [https://megarion.github.io/](here)
 - I use [https://code.visualstudio.com/](VSCode). I mainly code in **Javascript** and **Python**
