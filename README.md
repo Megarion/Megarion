@@ -2,8 +2,6 @@
 
 **I'm Megarion.**
 
-<br>
-
 - All of my projects are available [here](https://megarion.github.io/)
 - I use [VSCode](https://code.visualstudio.com/). I mainly code in **Javascript** and **Python**
 
