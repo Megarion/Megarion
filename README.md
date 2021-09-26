@@ -14,5 +14,3 @@
 <h3>GitHub Overview</h3>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)](https://github.com/Megarion/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megarion&show_icons=true&theme=dark&locale=en" alt="megarion" /></p>
