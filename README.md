@@ -14,3 +14,4 @@
 <h3>GitHub Overview</h3>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)](https://github.com/Megarion/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
