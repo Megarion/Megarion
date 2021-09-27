@@ -4,6 +4,7 @@
 
 - All of my projects are available [here](https://megarion.github.io/).
 - I use [VSCode](https://code.visualstudio.com/). I mainly code in **Javascript** and **Python**.
+- I make games and websites. GitHub is the platform I'm most active on.
 
 <h3>Contact</h3>
 
