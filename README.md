@@ -9,7 +9,7 @@
 <h3>Contact</h3>
 
 - [YouTube](https://www.youtube.com/channel/UCBrlr_nVSQ_4kZtsY58Q8wA)
-- [Itch](https://megarion.itch.io/
+- [Itch](https://megarion.itch.io/)
 - Megarion#0892
 
 <h3>GitHub Overview</h3>
