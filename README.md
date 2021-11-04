@@ -12,4 +12,4 @@
 
 <h3>GitHub Overview</h3>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)](https://github.com/Megarion/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)
