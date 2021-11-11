@@ -1,7 +1,7 @@
 <h3>Hello, Github. 👋</h3>
 
 - All of my projects are available [here](https://megarion.github.io/).
-- I use [VSCode](https://code.visualstudio.com/). I mainly code in **Javascript** and **Python**.
+- I like making games
 
 <h3>Contact</h3>
 
