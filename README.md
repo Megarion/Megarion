@@ -3,6 +3,9 @@
 - All of my projects are available [here](https://megarion.github.io/).
 - I like making games
 
+<h3>License</h3>
+📝 [About using my stuff](https://megarion.github.io/license/)
+
 <h3>Contact</h3>
 
 - [YouTube](https://www.youtube.com/channel/UCBrlr_nVSQ_4kZtsY58Q8wA)
