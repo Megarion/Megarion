@@ -4,7 +4,8 @@
 - I like making games
 
 <h3>License</h3>
-📝 [About using my stuff](https://megarion.github.io/license/)
+
+📝 [About using my stuff](https://megarion.github.io/).
 
 <h3>Contact</h3>
 
