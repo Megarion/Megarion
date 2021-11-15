@@ -5,7 +5,7 @@
 
 <h3>License</h3>
 
-📝 [About using my stuff](https://megarion.github.io/).
+📝 [About using my stuff](https://megarion.github.io/license/).
 
 <h3>Contact</h3>
 
