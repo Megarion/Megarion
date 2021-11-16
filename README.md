@@ -1,8 +1,8 @@
-<h3>Hello, Github. 👋</h3>
+### Hello, Github. 👋
 
 - All of my projects are available [here](https://megarion.github.io/).
 
-<h3>Repositories</h3>
+### Repositories
 
 Organized list of my featured repositories
 
@@ -17,17 +17,17 @@ Organized list of my featured repositories
 - [GitHub Profile](https://github.com/Megarion/Megarion)
 - [Website](https://github.com/Megarion/megarion.github.io)
 
-<h3>License</h3>
+### License
 
 📝 [About using my stuff](https://megarion.github.io/license/).
 
-<h3>Contact</h3>
+### Contact
 
 - [YouTube](https://www.youtube.com/channel/UCBrlr_nVSQ_4kZtsY58Q8wA)
 - [Itch](https://megarion.itch.io/)
 - Megarion#0892
 
-<h3>GitHub Overview</h3>
+### GitHub Overview
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)](https://www.youtube.com/watch?v=tMDWDA8fi5o)
 
