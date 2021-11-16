@@ -1,7 +1,21 @@
 <h3>Hello, Github. 👋</h3>
 
 - All of my projects are available [here](https://megarion.github.io/).
-- I like making games
+
+<h3>Repositories</h3>
+
+Organized list of my featured repositories
+
+**Games**
+- [Ocean Remotion](https://github.com/Megarion/Ocean-Remotion)
+- [D-BUG](https://github.com/Megarion/D-BUG)
+
+**Tools**
+- [Data Generator](https://github.com/Megarion/Data-Generator)
+
+**Misc**
+- [GitHub Profile](https://github.com/Megarion/Megarion)
+- [Website](https://github.com/Megarion/megarion.github.io)
 
 <h3>License</h3>
 
