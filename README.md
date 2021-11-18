@@ -7,6 +7,7 @@
 Organized list of my featured repositories
 
 **Games**
+- [Polygon Rush](https://github.com/Megarion/Polygon-Rush)
 - [Ocean Remotion](https://github.com/Megarion/Ocean-Remotion)
 - [D-BUG](https://github.com/Megarion/D-BUG)
 
