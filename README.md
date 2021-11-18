@@ -1,4 +1,4 @@
-### Hello, Github. 👋
+### Megarion
 
 - All of my projects are available [here](https://megarion.github.io/).
 
@@ -32,3 +32,5 @@ Organized list of my featured repositories
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)](https://www.youtube.com/watch?v=tMDWDA8fi5o)
 
 [![](https://github-profile-trophy.vercel.app/?username=megarion&theme=onedark&row=2&column=3)](https://www.youtube.com/watch?v=nggrgvqV5Tc)
+
+![](assets/megarion.png)
