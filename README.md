@@ -8,10 +8,10 @@ Organized list of my featured repositories
 
 **Games**
 - [Polygon Rush](https://github.com/Megarion/Polygon-Rush)
-- [Ocean Remotion](https://github.com/Megarion/Ocean-Remotion)
-- [D-BUG](https://github.com/Megarion/D-BUG)
+- [Ocean Remotion](https://github.com/Megarion/Ocean-Remotio)
 
 **Tools**
+- [NO COPY](https://github.com/Megarion/NOCOPY)
 - [Data Generator](https://github.com/Megarion/Data-Generator)
 
 **Misc**
