@@ -1,22 +1,5 @@
 ### Megarion
-
 - All of my projects are available [here](https://megarion.github.io/).
-
-### Repositories
-
-Organized list of my featured repositories
-
-**Games**
-- [Polygon Rush](https://github.com/Megarion/Polygon-Rush)
-- [Ocean Remotion](https://github.com/Megarion/Ocean-Remotio)
-
-**Tools**
-- [NO COPY](https://github.com/Megarion/NOCOPY)
-- [Data Generator](https://github.com/Megarion/Data-Generator)
-
-**Misc**
-- [GitHub Profile](https://github.com/Megarion/Megarion)
-- [Website](https://github.com/Megarion/megarion.github.io)
 
 ### License
 
@@ -34,4 +17,4 @@ Organized list of my featured repositories
 
 [![](https://github-profile-trophy.vercel.app/?username=megarion&theme=onedark&row=2&column=3)](https://www.youtube.com/watch?v=nggrgvqV5Tc)
 
-![](assets/megarion.png)
+[![](assets/megarion.png)](https://megarion.github.io/)
