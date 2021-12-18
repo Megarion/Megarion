@@ -3,7 +3,7 @@
 
 ### License
 
-📝 [About using my stuff](https://megarion.github.io/license/).
+📝 [About using my stuff](https://megarion.github.io/license.html).
 
 ### Contact
 
