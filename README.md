@@ -1,9 +1,5 @@
 ### Megarion
-- All of my projects are available [here](https://megarion.github.io/).
-
-### License
-
-📝 [About using my stuff](https://megarion.github.io/license.html).
+- All of my projects are available [here](https://megarion.github.io/)
 
 ### Contact
 
