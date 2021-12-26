@@ -8,10 +8,4 @@
 - Megarion#0892
 
 ### GitHub Overview
-Langauges:
-- C++
-- HTML
-- CSS
-- Java
-- JavaScript
-- Python
+[![Lnaguages](https://github-readme-stats.vercel.app/api/top-langs/?username=megarion&layout=compact&theme=dark&langs_count=10)](https://www.youtube.com/watch?v=C3NEBZqNlJ0)
