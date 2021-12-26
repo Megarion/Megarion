@@ -8,5 +8,10 @@
 - Megarion#0892
 
 ### GitHub Overview
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)
+Langauges:
+- C++
+- HTML
+- CSS
+- Java
+- JavaScript
+- Python
