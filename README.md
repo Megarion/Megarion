@@ -9,4 +9,4 @@
 
 ### GitHub Overview
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)](https://www.youtube.com/watch?v=tMDWDA8fi5o)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megarion&langs_count=10&theme=dark)
