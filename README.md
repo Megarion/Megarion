@@ -1,5 +1,5 @@
 ### Megarion
-- All of my projects are available [here](https://megarion.github.io/)
+- [https://megarion.github.io/](https://megarion.github.io/)
 
 ### Contact
 - Megarion#0892
